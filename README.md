@@ -1,2 +1,2 @@
 # Amazon-Clone
- only Created User Interface
+ Only created User Interface For Good Practice.
